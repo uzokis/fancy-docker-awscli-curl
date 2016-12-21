@@ -20,3 +20,5 @@ Refer to <http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-start
 Alpine Linux: <https://registry.hub.docker.com/_/alpine/>
 
 AWS cli: <https://aws.amazon.com/cli/>
+
+Docker HUB: https://hub.docker.com/r/uzokis/fancy-docker-awscli-curl/
